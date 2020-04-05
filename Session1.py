@@ -1,6 +1,6 @@
 #1st Session
 
-x = int(input("Enter a number: "))
+x = int(input("Enter any number: "))
 "Perimeter: val, Area: val"
 y = int(input("Enter another number: "))
 per1 = (2 *(x + y))
