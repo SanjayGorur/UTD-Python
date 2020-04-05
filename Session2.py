@@ -25,8 +25,8 @@ elif(y >= x):
   else:
     print("The greatest number is: ", z)  
 
-    for n in  range(51, 101, 2):
-  print(n)
+  for n in  range(51, 101, 2):
+    print(n)
 
 
   
