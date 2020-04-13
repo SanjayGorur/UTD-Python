@@ -1,4 +1,15 @@
-#Lesson Time!!
+# {"first":{"f1":1, "f2":2}, "second":{"s2":2, "s3":3 , "second1":{"ss1":1,"ss2":2}},"third":3}
+
+# "first"
+#   "f1":1
+#   "f2":2
+# "second"
+#   "s2":2
+#   "s3":3
+#   "second1"
+#     "ss1":1
+#     "ss2":2
+# "third": 3
 
 d = {"first":{"f1":1, "f2":2}, "second":{"s2":2, "s3":3 , "second1":{"ss1":1,"ss2":2}},"third":3}
 
